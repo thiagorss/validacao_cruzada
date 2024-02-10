@@ -26,7 +26,7 @@ Os arquivos `resultado.py` contêm as definições das classes `Resultado` e `Fo
 
 Para utilizar este projeto, siga estes passos:
 
-1. **Configuração do Ambiente**: Certifique-se de ter todas as dependências instaladas. Você pode instalar as dependências listadas no arquivo `requirements.txt`.
+1. **Configuração do Ambiente**: Certifique-se de ter todas as dependências instaladas. Você pode instalar as dependências listadas no arquivo `requirements.txt`
    
 2. **Execução dos Experimentos**: Crie instâncias da classe `Fold` com os dados apropriados e defina o método de aprendizado de máquina desejado. Em seguida, crie uma instância da classe `Experimento` e chame o método `resultados` para obter os resultados dos experimentos.
 
